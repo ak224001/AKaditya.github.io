@@ -36,7 +36,7 @@
 
 <b>Validation</b>: 5000 images belonging to 2 classes. 2500 images per class.
 
-### cats vs dogs Image classifier Using Data Augmentation
+### Image Classifier Cats🐱 vs Dogs🐶 Using Data Augmentation
 
 ### Model
 ![Model](https://github.com/ak224001/Deep-Learning/blob/master/model.png)
